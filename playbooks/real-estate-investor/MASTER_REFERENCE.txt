@@ -1,0 +1,6 @@
+MASTER: Insurance Agent Digital Product
+REI COVER: approved sharp Real Estate Investor retail-book asset
+REI COVER FILE: /playbooks/real-estate-investor/rei-book-sharp.webp
+SOURCE DIMENSIONS: 730 x 1120
+PRODUCT ROUTE: /playbooks/real-estate-investor/
+RELEASE GATE: visual QA required before approval
